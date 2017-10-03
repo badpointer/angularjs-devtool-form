@@ -8,12 +8,16 @@ yarn-error.log*
 # Temp Hide from GIT
 app.js
 formDevTool.js
-index.html
 styles.css
+webpack.config.js
+app.html
 
 # test view html
 test.html
 style.css
+
+# package lock
+package-lock.json
 
 # Runtime data
 pids
