@@ -5,6 +5,16 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Temp Hide from GIT
+app.js
+formDevTool.js
+index.html
+styles.css
+
+# test view html
+test.html
+style.css
+
 # Runtime data
 pids
 *.pid

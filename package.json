@@ -1,0 +1,24 @@
+{
+  "name": "angularjs-devtool-form",
+  "version": "1.0.0",
+  "description": "Dev tool for ngForms.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badpointer/angularjs-devtool-form.git"
+  },
+  "keywords": [
+    "ANGULARJSTOOL",
+    "DEVTOOLFORM",
+    "FORM"
+  ],
+  "author": "Badpointer <arindil@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badpointer/angularjs-devtool-form/issues"
+  },
+  "homepage": "https://github.com/badpointer/angularjs-devtool-form#readme"
+}
